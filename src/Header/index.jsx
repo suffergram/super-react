@@ -2,7 +2,7 @@ import "./style.css";
 
 export default function Header() {
     const addMovie = () => {
-        return <div className="bg"></div>;
+        return <div className="bg" />;
     }
 
     return (
